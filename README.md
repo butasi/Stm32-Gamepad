@@ -3,8 +3,7 @@ STM32Gamepad v1.0 🚀
 A high-performance gamepad firmware for STM32 microcontrollers, supporting up to 32 buttons and 8 analog inputs, ideal for custom arcade sticks, flight simulators, and DIY controllers.
 
 🔹 Features:
-32-button support for extensive input configurations
-8 analog inputs for joysticks, triggers, and other analog controls
+32-button support for extensive input configurations, 8 analog inputs for joysticks, triggers, and other analog controls
 USB HID support for plug-and-play functionality (no drivers needed)
 Low-latency performance optimized for real-time gaming
 Modular firmware for easy customization
