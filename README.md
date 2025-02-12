@@ -10,7 +10,7 @@ Low-latency performance optimized for real-time gaming
 Modular firmware for easy customization
 
 📌 Supported Hardware:
-STM32 (Specify MCU model here)
+STM32 (Used STM32F107RCTx Device from STM32F1 series)
 Buttons, potentiometers, and analog joysticks
 
 ⚡ Installation:
